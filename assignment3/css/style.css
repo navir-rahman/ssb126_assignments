@@ -1,0 +1,70 @@
+.col1{
+    color: white;
+    padding: 12px;
+    height: 200px;
+    width: 33.33%;
+    float: left;
+}
+.col2{
+    color: white;
+    padding: 12px;
+    height: 200px;
+    width: 100%;
+    float: left;
+}
+.col3{
+    color: white;
+    padding: 12px;
+    height: 200px;
+    width: 50%;
+    float: left;
+}
+.col4{
+    color: white;
+    padding: 12px;
+    height: 200px;
+    width: 60%;
+    float: left;
+}
+.col45{
+    color: white;
+    padding: 12px;
+    height: 200px;
+    width: 20%;
+    float: left;
+}
+.fullbody{
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.col1 div{
+    padding: 12px;
+    background: #00b0ff;
+    height: 150px;
+}
+.col2 div{
+    padding: 12px;
+    background: #00b0ff;
+    height: 150px;
+}
+.col3 div{
+    padding: 12px;
+    background: #00b0ff;
+    height: 150px;
+}
+.col4 div{
+    padding: 12px;
+    background: #00b0ff;
+    height: 150px;
+}
+.col45 div{
+    padding: 12px;
+    background: #00b0ff;
+    height: 150px;
+}

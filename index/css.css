@@ -1,0 +1,26 @@
+.cont{overflow: hidden;}
+.project-link{
+    /* display: inline; */
+    text-align: center;
+}
+.project-link li{
+    list-style: none;
+    padding: 18px;
+    display: block;
+}
+.project-link li a{
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    width: 30px;
+    background-color: aqua;
+    border-radius: 24px;
+    font-size: 30px;
+    box-shadow: 0 3px #0000004a;
+    transition: all 0.5s ease; 
+}
+.project-link li a:hover{
+    background-color: #1aa1a1;
+    /* box-shadow: 0 2px black; */
+}
